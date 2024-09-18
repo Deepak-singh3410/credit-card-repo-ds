@@ -163,7 +163,8 @@ informative statistical graphics.</li>
 
 ---
 ### Additional Resources 🧮📚📓🌐
-To  explore a broader range of my machine learning models, crafted during my internship, please visit my dedicated repository: https://github.com/madhurimarawat/Machine-Learning-Using-Python
+To  explore a broader range of my machine learning models, crafted during my internship, please visit my dedicated repository: 
+https://github.com/Deepak-singh3410/credit-card-repo)
 
 ---
 
